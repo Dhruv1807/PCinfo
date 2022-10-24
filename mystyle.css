@@ -1,0 +1,58 @@
+
+
+h1  {
+  color: red;
+  margin-left: -3px;
+  margin-top:3px;
+  font-size: 50px;
+  font-family: "Monaco", monospace;
+  text-align: center;
+
+}
+
+img {
+  border: 5px solid #555;
+  border-color: red;
+  margin-left: 50px;
+
+
+}
+h2 {
+  position:fixed;
+  margin-top:400px;
+  color: red;
+  font-size: 400px
+
+}
+
+
+
+
+h1 {
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  background-color: black;
+  border-color: red;
+  background width: 200px;
+}
+
+<style>
+.button {
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+body {
+background-color: black;
+}
+</style>

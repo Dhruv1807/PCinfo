@@ -1,0 +1,35 @@
+h1  {
+  color: red;
+  margin-left: -3px;
+  margin-top:3px;
+  font-size: 50px;
+  font-family: "Monaco", monospace;
+  text-align: center;
+}
+h1 {
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  background-color: black;
+  border-color: red;
+  background width: 200px;
+}
+h2  {
+  color: red;
+  margin-left: -3px;
+  margin-top:3px;
+  font-size: 50px;
+  font-family: "Monaco", monospace;
+  text-align: center;
+}
+
+img {
+  border: 5px solid #555;
+  border-color: red;
+  margin-left: 660px;
+}
+
+body {
+background-color: black;
+}
